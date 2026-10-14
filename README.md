@@ -1,6 +1,6 @@
 # Classical ML and Honest Evaluation
 
-This repository contains my Week 2 internship work, focused on classical machine learning, model validation, preventing data leakage, and evaluating model generalization performance.
+This repository focused on classical machine learning, model validation, preventing data leakage, and evaluating model generalization performance.
 
 ## Overview
 
